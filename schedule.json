@@ -1,0 +1,64 @@
+{
+  "timezoneLabel": "Local time",
+  "days": [
+    {
+      "label": "Friday",
+      "slots": [
+        {
+          "name": "Roy",
+          "time": "3:00 PM"
+        },
+        {
+          "name": "Dhl",
+          "time": "3:30 PM"
+        },
+        {
+          "name": "Tyrone",
+          "time": "4:00 PM"
+        },
+        {
+          "name": "Tavion",
+          "time": "4:30 PM"
+        },
+        {
+          "name": "Q",
+          "time": "5:00 PM"
+        },
+        {
+          "name": "Dylan",
+          "time": "5:30 PM"
+        }
+      ]
+    },
+    {
+      "label": "Saturday",
+      "slots": [
+        {
+          "name": "Juvi",
+          "time": "11:00 AM"
+        },
+        {
+          "name": "Marlon",
+          "time": "12:00 PM"
+        },
+        {
+          "name": "Ozzy",
+          "time": "1:00 PM"
+        },
+        {
+          "name": "Dell",
+          "time": "1:30 PM"
+        }
+      ]
+    },
+    {
+      "label": "Sunday",
+      "slots": [
+        {
+          "name": "Sweeney",
+          "time": "12:00 PM"
+        }
+      ]
+    }
+  ]
+}

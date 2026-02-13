@@ -1,0 +1,14 @@
+{
+  "name": "deezcutz-checkin-fixed",
+  "version": "1.0.0",
+  "description": "DeezCutz HERE/OTW check-in app (fixed)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

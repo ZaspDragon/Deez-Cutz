@@ -1,0 +1,15 @@
+
+body{
+  font-family: system-ui;
+  background:#0b1020;
+  color:white;
+  padding:20px;
+}
+.wrap{max-width:600px;margin:auto}
+button{
+  padding:10px 14px;
+  margin-right:10px;
+  font-weight:bold;
+}
+#here{background:#e11d2e;color:white}
+#otw{background:#1d4ed8;color:white}
