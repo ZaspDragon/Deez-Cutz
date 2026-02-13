@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ace",
+    "name": "Ace",
+    "specialty": "Fades \u2022 Lineups \u2022 Texture",
+    "years": 7,
+    "rating": 4.9
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "specialty": "Beards \u2022 Tapers \u2022 Hot towel",
+    "years": 5,
+    "rating": 4.8
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "specialty": "Scissor work \u2022 Classic cuts",
+    "years": 9,
+    "rating": 5.0
+  }
+]

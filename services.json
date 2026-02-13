@@ -1,0 +1,26 @@
+[
+  {
+    "id": "haircut",
+    "name": "Haircut",
+    "price": 35,
+    "durationMins": 45
+  },
+  {
+    "id": "beard",
+    "name": "Beard Trim",
+    "price": 20,
+    "durationMins": 20
+  },
+  {
+    "id": "combo",
+    "name": "Haircut + Beard",
+    "price": 50,
+    "durationMins": 60
+  },
+  {
+    "id": "kids",
+    "name": "Kids Cut",
+    "price": 25,
+    "durationMins": 30
+  }
+]
